@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.good {
+    background-color: #000000;
+    color: #f0f8ff;
+}
+
+.bad {
+    background-color: #ffff00;
+}
+
+.good,
+.bad {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
