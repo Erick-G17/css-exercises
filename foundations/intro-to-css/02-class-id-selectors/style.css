@@ -1,1 +1,20 @@
-/* Add CSS Styling */
+/* styles.css */
+
+.prac {
+    background-color: rgb(179, 67, 90);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#two {
+    color: rgb(39, 199, 199);
+    font-size: 36px;
+}
+
+.adjust-font-size{
+    font-size: 24px;
+}
+
+#four {
+    background-color: rgb(83, 145, 21);
+    font-weight: bold;
+}
